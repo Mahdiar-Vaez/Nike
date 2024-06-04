@@ -16,7 +16,7 @@ Install dependencies: npm install
 To start the development server, run:
 npm start
 
-The website will be available at http://localhost:3000.
+The website will be available at [here](https://665f67a14c6bd839986dd496--dashing-macaron-98e949.netlify.app/)
 
 # Structure
 The project is structured as follows:
